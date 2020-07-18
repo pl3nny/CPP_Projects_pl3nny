@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"to_str"
+			],
+			[
+				"rand",
+				"randArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 352,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "solarSystem.cpp",
+			"settings":
+			{
+				"buffer_size": 663,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "solarSystem.h",
+			"settings":
+			{
+				"buffer_size": 446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"synt",
+				"Set Syntax: C++"
+			],
+			[
+				"synta",
+				"Set Syntax: C++"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+<<<<<<< HEAD
+		"/D/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/solar system"
+=======
+		"/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/solar system"
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+	],
+	"file_history":
+	[
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/solar system/solarSystem.cpp",
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/solar system/main.cpp",
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/solar system/solarSystem.h",
+		"/C/Users/pl3nny/Google Drive/CSUEB/CS 3120/Homeworks/Hw4/lexicalAnalyzer.cpp",
+		"/C/Users/pl3nny/Google Drive/CSUEB/CS 3120/Homeworks/Hw4/test.txt",
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/file io/fileInOut.cpp",
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/sorting algorithms/bubbleSort.cpp",
+		"/C/Users/pl3nny/Documents/gitProjects/cpp/cpp_pl3nny/sorting algorithms/insertionSort.cpp",
+		"/C/Users/pl3nny/NTUSER.DAT",
+		"/C/Users/pl3nny/Desktop/html-test/index.html",
+		"/C/Users/pl3nny/Desktop/html-test/style.css",
+		"/C/Users/pl3nny/Desktop/html-test/modal.js"
+	],
+	"find":
+	{
+<<<<<<< HEAD
+		"height": 34.0
+=======
+		"height": 26.0
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"double",
+			"this",
+			"int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								352,
+								352
+=======
+								0,
+								0
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+<<<<<<< HEAD
+					"stack_index": 2,
+=======
+					"stack_index": 1,
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "solarSystem.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								166,
+								166
+=======
+<<<<<<< HEAD
+								0,
+								0
+=======
+								307,
+								307
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+<<<<<<< HEAD
+					"stack_index": 0,
+=======
+<<<<<<< HEAD
+					"stack_index": 0,
+=======
+					"stack_index": 2,
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "solarSystem.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								446,
+								446
+=======
+<<<<<<< HEAD
+								0,
+								0
+=======
+								62,
+								62
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+<<<<<<< HEAD
+					"stack_index": 1,
+=======
+					"stack_index": 0,
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+<<<<<<< HEAD
+		"height": 34.0
+=======
+		"height": 26.0
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "solar system proj.sublime-project",
+	"replace":
+	{
+<<<<<<< HEAD
+		"height": 64.0
+=======
+		"height": 48.0
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+<<<<<<< HEAD
+	"selected_group": 1,
+=======
+<<<<<<< HEAD
+	"selected_group": 1,
+=======
+	"selected_group": 2,
+>>>>>>> e57af57e39036da66e2a01da9762b2f4e786becc
+>>>>>>> e9ef6065b7c6bc32c865e3f66453e43f6f15f1b1
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
