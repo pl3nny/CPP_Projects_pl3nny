@@ -1,0 +1,76 @@
+"""
+# Let's Build a Vendor Availability system
+## Problem
+We need to know if a vendor (restaurant) is available to deliver a meal. 
+So given a list of upcoming meals, build a function that will tell us if 
+the vendor (restaurant) is available to take the order.
+## Requirements
+- input: take a vendor_id and a date
+- output: True if the vendor is available, False if not
+- A vendor is available if:
+  - They have enough drivers for a concurrent delivery
+  - As long as the delivery blackout period doesn't overlap (30 minutes before, 10 minutes after)
+"""
+
+# A list of meals to be delivered
+meals = {
+    "results": [
+    {
+        "vendor_id": 1,                    # Vendor 1 will be serving
+        "client_id": 10,                   # Client 10 on
+        "datetime": "2017-01-01 13:30:00"  # January 1st, 2017 at 1:30 pm
+    },
+    {
+        "vendor_id": 1,
+        "client_id": 40,
+        "datetime": "2017-01-01 14:30:00"
+    },
+    {
+        "vendor_id": 2,
+        "client_id": 20,
+        "datetime": "2017-01-01 13:30:00"
+    }
+  ]
+}
+
+# Driver information per vendor.
+vendors = {
+    "results": [
+    {
+        "vendor_id": 1,
+        "drivers": 1
+    },
+    {
+        "vendor_id": 2,
+        "drivers": 3
+    }
+  ]
+}
+
+
+# you can write the function here.
+def is_vendor_available(vendor_id, date_time):
+  railse NotImplementedException
+
+
+"""
+Here's some tests to get you started
+"""
+
+def test_unavailable_vendor():
+    assert is_vendor_available(1, "2017-01-01 14:30:00") == False
+    
+def test_available_vendor():
+    assert is_vendor_available(1, "2017-01-02 14:30:00") == True
+
+"""
+Sanity tests
+""" 
+def test_exceptions_get_caught():
+    with pytest.raises(Exception) as e_info:
+        x = 1 / 0
+
+def test_sanity():
+    assert 2 + 2 == 4
+    
+pytest.main()
