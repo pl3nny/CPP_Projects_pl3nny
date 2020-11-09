@@ -125,4 +125,5 @@ void Paycheck::paycheck_statement()
     std::cout << "Deducted From Taxes: \t\t$" << deducted_in_taxes << std::endl;
     std::cout << "Total Regular Hours Worked:\t" << regular_hours << std::endl;
     std::cout << "Total Overtime Hours Worked:\t" << overtime_hours << std::endl;
+    std::cout << std::endl;
 }
